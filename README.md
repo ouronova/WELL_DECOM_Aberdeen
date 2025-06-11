@@ -1,6 +1,6 @@
 ## 📚 ouronova - Public well decom Aberdeen:
 
-<img src="https://github.com/ouronova/WELL_DECOM_Aberdeen/blob/main/img/img.jpg" min-width="700px" max-width="700px" width="700px" align="center" alt="wellnova.ai">
+<img src="https://github.com/ouronova/WELL_DECOM_Aberdeen/blob/main/img/img.jpg" min-width="470px" max-width="470px" width="470px" align="center" alt="wellnova.ai">
 
 ## 🧭 Summary 🔆
 
