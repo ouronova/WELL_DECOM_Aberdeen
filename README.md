@@ -11,7 +11,9 @@
 ## Recursos para o README
 
 [![Card](https://img.shields.io/badge/2025%20-%23323330.svg?&style=for-the-badge&logo=2025&logoColor=black&color=FFB800)](https://github.com/ouronova/WELL_DECOM_Aberdeen/tree/main/2025)
-[![Badge](https://img.shields.io/badge/badges%20-%23323330.svg?&style=for-the-badge&logo=2025&logoColor=black&color=E1364B)](https://github.com/ouronova/WELL_DECOM_Aberdeen/tree/main/2025)
+[![Badge](https://img.shields.io/badge/2025%20-%23323330.svg?&style=for-the-badge&logo=2025&logoColor=black&color=E1364B)](https://github.com/ouronova/WELL_DECOM_Aberdeen/tree/main/2025)
+[![Badge](https://img.shields.io/badge/2025%20-%23323330.svg?&style=for-the-badge&logo=2025&logoColor=black&color=E1364B)](https://github.com/ouronova/WELL_DECOM_Aberdeen/tree/main/2025)
+[![Badge](https://img.shields.io/badge/2025%20-%23323330.svg?&style=for-the-badge&logo=2025&logoColor=black&color=E1364B)](https://github.com/ouronova/WELL_DECOM_Aberdeen/tree/main/2025)
 
 ---
 
