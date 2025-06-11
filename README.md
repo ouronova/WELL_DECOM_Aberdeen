@@ -1,5 +1,13 @@
 ## 📚 ouronova - Public well decom Aberdeen:
 
+## 🧭 Resumo 🔆
+
+
+
+
+
+
+
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
