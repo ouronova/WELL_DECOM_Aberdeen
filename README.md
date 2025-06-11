@@ -1,7 +1,5 @@
 ## 📚 ouronova - Public well decom Aberdeen:
 
-<img src="https://github.com/TomDatalab/sofiadb/blob/main/images/SofiaDB.png" min-width="900px" max-width="900px" width="900px" align="center" alt="Computador iuriCode">
-
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
