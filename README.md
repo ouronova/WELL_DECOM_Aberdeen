@@ -1,6 +1,8 @@
 ## 📚 ouronova - Public well decom Aberdeen:
 <img src="https://github.com/ouronova/WELL_DECOM_Aberdeen/blob/main/img/img.jpg" min-width="470px" max-width="470px" width="470px" align="center" alt="wellnova.ai">
+
 ## 🧭 Summary 🔆
+
 <p align="left"> 
 This is a public repository to gather the documents published by SPE Aberdeen https://www.spe-aberdeen.org/ at its annual meeting to address oil well decommissioning.
 </p>
