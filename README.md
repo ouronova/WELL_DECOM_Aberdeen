@@ -1,6 +1,8 @@
 ## 📚 ouronova - Public well decom Aberdeen:
 
-## 🧭 Resumo 🔆
+<img src="https://github.com/TomDatalab/sofiadb/blob/main/images/SofiaDB.png" min-width="900px" max-width="900px" width="900px" align="center" alt="Computador iuriCode">
+
+## 🧭 Summary 🔆
 
 
 <p align="left"> 
